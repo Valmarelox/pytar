@@ -1,1 +1,1 @@
-auto_struct
+auto_struct==0.600
